@@ -5,7 +5,7 @@ Welcome to my portfolio website! This project showcases my skills and experience
 Features :
 
 About Me Section: Provides an overview of my background, skills, and interests.
-Contact Form: Allows visitors to easily get in touch with me for collaboration opportunities or inquiries.
+Contact Form: Allows visitors to easily get in touch with me for collaboration opportunities or inquiries.<br>
 Home section: Provides a brief about myself.
 
 Technologies used :
